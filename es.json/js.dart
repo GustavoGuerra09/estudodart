@@ -69,7 +69,7 @@ class UserModel {
       id: json["id"],
       email: json["usuario"],
       password: json["senha"].toString(),
-      permissoes:  List<String>.from(json["permissoes"]);
+      permissoes:  List<String>.from(json["permissoes"])
     );
 
   }

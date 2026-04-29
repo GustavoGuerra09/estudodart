@@ -32,7 +32,7 @@ void main(){
   
 //EXTENDS = herdar
   class Gustavo extends Pai{
-    //VAI HERDAR : "filho", "Papai"
+    //VAI HERDAR : "filho", "Papai", "HAHAHA  "
 
 
 
